@@ -1,0 +1,23 @@
+
+
+body {
+    background-color: gray;
+    background-image: linear-gradient(to right, gray, black);
+    
+}
+
+.container {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+}
+
+.row1{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.row {
+    padding: 5px;
+}
+
+
