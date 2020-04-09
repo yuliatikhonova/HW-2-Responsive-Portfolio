@@ -12,17 +12,24 @@ body {
 
 .container {
     background-color: white;
-    padding: 20px;
-    margin: 20px;
+    padding: 45px;
+    margin: 40px;
+    width: 600px;
+    
+    
 }
 
 h1{
     font-family: 'Times New Roman', Times, serif;
     font-weight: bold;
+    
 }
 
 .row {
     padding: 5px;
 }
 
+input {
+    width: 500px;
+}
 
