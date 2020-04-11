@@ -1,1 +1,1 @@
-# HW-2-Responsive-Portfolio
+For this project we were ask to create a mobile responsive portfolio. We made three different html files named index, portfolio and contacts, that were linked and abel to navigate using a responsive nav bar. ![Responsive navbar](Responsive Navbar.mp4)
