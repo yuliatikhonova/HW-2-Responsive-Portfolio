@@ -1,13 +1,18 @@
 For this project I was asked to create a mobile responsive portfolio. We made three different html files named index, portfolio and contacts, that were linked and abel to navigate using a responsive navbar. 
 
-![Navbar demo](https://user-images.githubusercontent.com/62128411/79057382-e7014900-7c15-11ea-9708-fc0bc36218fc.gif)
+This example starts at the about me page. I have added the links to my GitHub profile and Linkedin profile. Which both links take the user straight to the profile pages. And by using the nav bar i am able to move to the portfolio tab.
 
-I also used Bootstrap components and grid system to created the layout of the the three pages. 
+![About me to portfolio](https://user-images.githubusercontent.com/62128411/82745964-28216880-9d3f-11ea-89eb-3867cc6d2488.gif)
 
-<img width="300" alt="Bio" src="https://user-images.githubusercontent.com/62128411/79057487-ffbe2e80-7c16-11ea-880d-70b97c75a22d.png">
-<img width="411" alt="Contect" src="https://user-images.githubusercontent.com/62128411/79057507-1c5a6680-7c17-11ea-8e08-809c2e5a41a5.png">
-<img width="319" alt="Portfolio" src="https://user-images.githubusercontent.com/62128411/79057514-2c724600-7c17-11ea-8f9f-2130b264fcf1.png">
+This next gif starts on the portfolio page. I navigate through one of my homework assignments. Which includes the repo and the deployed site. Then i am able to move to the contact portion.
 
-We also had to make sure that responsive design ensures that web applications render well on a variety of devices and window.
+![Portfolio to contact](https://user-images.githubusercontent.com/62128411/82745965-2ce61c80-9d3f-11ea-976a-dc84ca83dec4.gif)
 
-![Change size demo](https://user-images.githubusercontent.com/62128411/79057688-e4542300-7c18-11ea-9d7a-889c6fcacc66.gif)
+Here are the links to the projects that were ... on the portfolio page.
+
+https://yuliatikhonova.github.io/Lyrics-To-Go/
+
+https://yuliatikhonova.github.io/HW-4-Code-Quiz/
+
+https://yuliatikhonova.github.io/HW-5-Work-Day-Scheduler/
+
