@@ -61,6 +61,13 @@ h1{
 
 .port-image {
     margin: 20px auto;
+    outline-style: solid;
+    width: 310px;
+    height: 250px;
+}
+
+.imgTittle {
+    text-align: center;
 }
 
 /* Footer */
