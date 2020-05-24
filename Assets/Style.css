@@ -42,11 +42,9 @@ main {
     border-radius: 10px;
 }
 
-h1{
+h1, h3 {
     font-family: monospace;
     font-weight: bold;
-    font-size: 40px;
-    
 }
 
 .row {
@@ -88,4 +86,16 @@ h1{
 .text-box {
     margin-top: 15px;
     color: gray;
+}
+
+.phone {
+    float: right;
+    color: whitesmoke;
+    margin: 15px;
+}
+
+.email {
+    float: left;
+    color: whitesmoke;
+    margin: 15px;
 }
