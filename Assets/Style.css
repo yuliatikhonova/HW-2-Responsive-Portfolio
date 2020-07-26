@@ -33,13 +33,18 @@ body {
 /* Main articles */
 main {
     margin: 50px 30px;
+    
 }
 
 .block {
-    background-color: #fff;
+    background-color:rgb(219, 219, 219);
     padding: 30px;
     margin-bottom: 30px;
     border-radius: 10px;
+}
+
+hr {
+    background-color: black;
 }
 
 h1, h3 {
@@ -58,10 +63,11 @@ h1, h3 {
 }
 
 .port-image {
-    margin: 20px auto;
-    outline-style: solid;
-    width: 310px;
-    height: 250px;
+    margin: 30px auto;
+    box-shadow: 0 0 3pt 2pt black;
+    border-radius: 10px;
+    width: 500px;
+    height: 300px;
 }
 
 .imgTittle {
